@@ -46,7 +46,7 @@ def start():
                 print("THANK YOU FOR USING ICE CREAM PARLOUR MANAGEMENT SYSTEM!")
                 break
             else:
-                print("Please enter a valid choice from 1-4!")
+                print("Please enter a valid choice from 1-6!")
         except ValueError:
             print("Please input as suggested!")
 start()
